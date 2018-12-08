@@ -8,3 +8,4 @@ koszt= dystans*spalanie*cena_paliwa/100
 
 print(f"Koszt przejazdu {miastoA} {miastoB} to ", koszt)
 
+

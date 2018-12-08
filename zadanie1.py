@@ -12,6 +12,7 @@ c = p*(r**2)
 print("Pole koła wynosi ",c) 
 #Policz pole trapezu o długości podstaw  i  i wysokości 5
 
+
 t1 = 3
 t2 = 9
 h = 5
