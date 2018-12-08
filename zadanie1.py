@@ -19,7 +19,8 @@ w = 1/2 * (3+9)*h
 print("Pole koła wynosi ",w) 
 #Policz objętość kuli o zadanym promieniu.
 r= 10
-q= 4/3*3.14*r**
-print("Pole koła wynosi ",q) 
+pi = 3.14
+q= 4/3*pi*r**3
+print("Objętość kuli wynosi ",q) 
 
 
