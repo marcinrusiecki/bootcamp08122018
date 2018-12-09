@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb766bb-1671-45f7-bb43-cd7361d9d4ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie17_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien2/zadanie21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dzien1/zadanie1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie3.py" beforeDir="false" afterPath="$PROJECT_DIR$/dzien1/zadanie3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dzien1/zadanie11.py" beforeDir="false" afterPath="$PROJECT_DIR$/dzien1/zadanie11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,31 +35,122 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ignore" value="1" />
-          <entry key="py" value="11" />
+          <entry key="py" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="11" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ignore" value="19" />
-          <entry key="py" value="2256" />
+          <entry key="py" value="7392" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="2256" />
+          <entry key="Python" value="7392" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie14.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie15.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-221">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie17.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie17_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie21.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien2/zadanie13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,14 +176,26 @@
         <option value="$PROJECT_DIR$/zadanie10.py" />
         <option value="$PROJECT_DIR$/zadanie11.py" />
         <option value="$PROJECT_DIR$/zadanie3.py" />
+        <option value="$PROJECT_DIR$/dzien1/zadanie11.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie12.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie13.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie14.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie15.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie16.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie17.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie17_2.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie18.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie19.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie20.py" />
+        <option value="$PROJECT_DIR$/dzien2/zadanie21.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="285" />
-    <option name="y" value="11" />
+    <option name="x" value="290" />
+    <option name="y" value="36" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -95,6 +208,16 @@
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="dzien1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="dzien2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,8 +246,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zadanie11">
-    <configuration name="zadanie10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.zadanie21">
+    <configuration name="zadanie17_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kurs\workspace\dzien1\zadanie10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien2/zadanie17_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zadanie18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +276,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kurs\workspace\dzien1\zadanie11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien2/zadanie18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zadanie19" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kurs\workspace\dzien1\zadanie7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien2/zadanie19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zadanie20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +318,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kurs\workspace\dzien1\zadanie8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien2/zadanie20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zadanie21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +339,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kurs\workspace\dzien1\zadanie9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien2/zadanie21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,19 +353,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.zadanie7" />
-      <item itemvalue="Python.zadanie8" />
-      <item itemvalue="Python.zadanie9" />
-      <item itemvalue="Python.zadanie10" />
-      <item itemvalue="Python.zadanie11" />
+      <item itemvalue="Python.zadanie17_2" />
+      <item itemvalue="Python.zadanie18" />
+      <item itemvalue="Python.zadanie19" />
+      <item itemvalue="Python.zadanie20" />
+      <item itemvalue="Python.zadanie21" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zadanie11" />
-        <item itemvalue="Python.zadanie10" />
-        <item itemvalue="Python.zadanie9" />
-        <item itemvalue="Python.zadanie8" />
-        <item itemvalue="Python.zadanie7" />
+        <item itemvalue="Python.zadanie21" />
+        <item itemvalue="Python.zadanie20" />
+        <item itemvalue="Python.zadanie19" />
+        <item itemvalue="Python.zadanie18" />
+        <item itemvalue="Python.zadanie17_2" />
       </list>
     </recent_temporary>
   </component>
@@ -260,20 +383,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="285" y="11" width="1400" height="1000" extended-state="0" />
+    <frame x="290" y="36" width="1400" height="990" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -306,59 +429,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie10.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie9.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie8.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie7.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie6.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie5.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie4.py">
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien1/zadanie11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie17_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien2/zadanie21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>

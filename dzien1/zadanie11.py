@@ -1,7 +1,7 @@
 pozycja_x = int(input("Podaj pozycję gracza X: "))
 pozycja_y = int(input("Podaj pozycję gracza Y: "))
 
-
+#czy gracz jest poza planszą
 if (pozycja_x < 0 or pozycja_y < 0) or (pozycja_x > 100 or pozycja_y > 100):
     print("Jesteś poza planszą")
 elif (pozycja_x > 0 and pozycja_x < 10) and (pozycja_y > 0 and pozycja_y <= 10):
