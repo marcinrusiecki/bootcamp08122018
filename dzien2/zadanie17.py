@@ -6,6 +6,7 @@ while ilosc_wprowadzen < 10:
     srednia = sum(lista)/len(lista)
     print(srednia)
     ilosc_wprowadzen+=1
+print(lista)
 
 
 

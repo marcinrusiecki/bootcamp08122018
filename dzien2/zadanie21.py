@@ -1,17 +1,17 @@
 liczby = [56,3,5,1]
-
+print(liczby)
 indeks_min, indeks_max = None, None
+temp_max = None
+for i, v in enumerate(liczby):
+    print(v, "[",i,"]")
+
+index_min = liczby[0]
+index_max = liczby[3]
+temp_max = index_max
+index_min = index_max
+temp_max = index_min
+print(index_min, index_max)
+#assert [1, 3, 5, 56] == liczby
 
 
-
-for indeks in range(len(liczby)):
-    if indeks_min is None or liczby[indeks]< liczby[indeks_min]:
-        indeks_min = indeks
-    if indeks_max is None or liczby[indeks] < liczby[indeks_max]:
-        indeks_max = indeks
-
-
-liczby[indeks_max], liczby[indeks_min] = liczby[indeks_min], liczby[indeks_max]
-
-assert liczby == [1,3,5,56]
 
