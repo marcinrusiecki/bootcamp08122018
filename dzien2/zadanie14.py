@@ -22,6 +22,6 @@ while True:
         if znalezione_min is None or liczba < znalezione_min:
             znalezione_min = liczba
 
-print("Znalezione maksimum to: ",znalezione_max, "Znalezione maksimum to: ",znalezione_min )
+print("Znalezione maksimum to: ",znalezione_max, "Znalezione minimum to: ",znalezione_min )
 
 
