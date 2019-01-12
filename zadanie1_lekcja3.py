@@ -7,3 +7,6 @@ def liczby_pierwsze(liczba):
 
 wynik = liczby_pierwsze(int(input("Podaj liczbę: ")))
 
+
+
+
