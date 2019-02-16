@@ -1,0 +1,3 @@
+Wiersz1
+Wiersz2
+Wiersz3
