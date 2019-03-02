@@ -1,7 +1,7 @@
 import sys
 import json
 import requests
-lokalizacja = sys.argv[1]
+# lokalizacja = sys.argv[1]
 
 lokalizacja = input("Podaj miasto: ")
 
