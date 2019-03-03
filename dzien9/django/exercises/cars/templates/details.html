@@ -18,9 +18,15 @@
         <td>{{car.model}}</td>
         <td>{{car.year}}</td>
         <td>{{car.body.type}}</td>
+        <td>
+            {%if car.image%}
+            <img src="{{car.image.url}}">
+            {%endif%}
+        </td>
     </tr>
     </tbody>
 
 </table>
+<a href="{%url 'cars_list' %}">Lista</a>
 </body>
 </html>

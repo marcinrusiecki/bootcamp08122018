@@ -1,5 +1,5 @@
 from django.contrib import admin
-from cars.models import Car
+from cars.models import Car, Engine
 
 @admin.register(Car)
 class CarAdmin(admin.ModelAdmin):
@@ -8,4 +8,8 @@ class CarAdmin(admin.ModelAdmin):
     list_filter = ["brand"]
 # admin.site.register(Car, CarAdmin)
 
+
+@admin.register(Engine)
+class EngineAdmin(admin.ModelAdmin):
+    list_display = ["type", "power"]
 # Register your models here.

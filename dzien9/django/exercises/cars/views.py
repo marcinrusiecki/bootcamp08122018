@@ -3,7 +3,7 @@ from cars.models import Car
 # Create your views here.
 
 def car_list(request):
-    cars = Car.objects.all()
+    cars = Car.objects.filter(is_ready = True)
     return render(
         request = request,
         template_name = "cars_list.html",
@@ -17,5 +17,7 @@ def car_details(request,id):
         template_name = "details.html",
         context = {"car": car}
     )
+
+
 
 

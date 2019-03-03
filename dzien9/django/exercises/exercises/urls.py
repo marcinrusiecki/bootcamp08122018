@@ -17,6 +17,9 @@ from django.contrib import admin
 from django.urls import path, include
 from greetings.views import hello_name, hello_world
 
+from django.conf import settings
+from django.conf.urls.static import static
+from django.contrib import admin
 
 urlpatterns = [
     path('jet/', include('jet.urls', 'jet')),
@@ -26,3 +29,5 @@ urlpatterns = [
     path('math/', include('mathematics.urls')),
     path('cars/', include('cars.urls'))
 ]
+
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
